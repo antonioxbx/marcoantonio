@@ -118,25 +118,25 @@ padding:0 20px;
 
 .hero h1{
 
-font-family:"Cormorant Garamond";
-
-font-size:5rem;
-
-font-weight:700;
-
-margin-bottom:10px;
+    font-family:"Cormorant Garamond", serif;
+    font-size:5rem;
+    color:#445B47;
 
 }
 
 .hero h2{
 
-font-size:1.3rem;
+    font-size:1.4rem;
+    color:#5F7A61;
 
-font-weight:500;
+}
 
-color:var(--green-dark);
+.descricao{
 
-margin-bottom:20px;
+    max-width:600px;
+    margin-top:25px;
+
+}
 
 }
 
