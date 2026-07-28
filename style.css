@@ -315,6 +315,86 @@ padding:30px;
 }
 
 
+.publicacao{
+
+background:white;
+
+padding:30px;
+
+margin:25px 0;
+
+border-radius:20px;
+
+border-left:6px solid var(--verde);
+
+}
+
+
+
+.publicacao h3{
+
+color:var(--terra);
+
+}
+
+
+
+.publicacao a{
+
+color:var(--verde);
+
+font-weight:600;
+
+text-decoration:none;
+
+}
+
+.fluxo{
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+gap:25px;
+
+flex-wrap:wrap;
+
+}
+
+
+
+.fluxo div{
+
+background:white;
+
+padding:25px;
+
+border-radius:20px;
+
+text-align:center;
+
+min-width:160px;
+
+box-shadow:
+0 8px 20px rgba(0,0,0,.08);
+
+font-weight:600;
+
+color:var(--verde);
+
+transition:.3s;
+
+}
+
+
+
+.fluxo div:hover{
+
+transform:scale(1.05);
+
+}
 
 
 
